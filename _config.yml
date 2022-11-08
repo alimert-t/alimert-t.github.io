@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Ali Mert Turaclar
+author: Ali Mert Turaclar
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  Hi, I'm Mert! Welcome to my personal page. I'm a Physics Master Student at FU Berlin.
 baseurl: ""
 
 plugins:
